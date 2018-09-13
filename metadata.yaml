@@ -5,6 +5,9 @@ contributor:
     agent_name: Johnson
     gutenberg_agent_id: '35613'
     url: http://www.gutenberg.org/2009/agents/35613
+covers:
+- cover_type: archival
+  image_path: 51397-h/images/cover.jpg
 creator:
   author:
     agent_name: Arkin, Alan
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46255'
     url: http://www.gutenberg.org/2009/agents/46255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51397#People-Soup
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-08'
 gutenberg_type: Text
